@@ -1,4 +1,6 @@
-streamlit==1.28.0
-pandas==2.2.2
-numpy==1.26.4
---find-links https://wheel-index.labs.anaconda.org/
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
